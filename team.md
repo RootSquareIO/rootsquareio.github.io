@@ -14,14 +14,6 @@ title: Team
     </figcaption>
   </figure>
 
-  <figure style="flex: 1; text-align: center; margin: 1px;">
-    <img alt="Agapios Constantinides" src="/assets/images/CB7A8459.JPG" style="width: 100px; height: 100px; border-radius: 50%;"/>
-    <figcaption>
-      Agapios Constantinides<br>
-      Co-founder and Data/ML Engineer
-    </figcaption>
-  </figure>
-
 </div>
 
 <div style="display: flex; justify-content: space-between;">

@@ -26,6 +26,9 @@ github_username:  patdryburgh
 # Build settings
 markdown: kramdown
 
+# google analytics
+google_analytics: G-GB5F2KYL86
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
